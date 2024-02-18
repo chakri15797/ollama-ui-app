@@ -8,7 +8,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 
 loader = WebBaseLoader(
-    web_paths=("http://localhost:4200",),
+    web_paths=("https://www.linkedin.com/in/chakradhar-nadikota/",),
     #bs_kwargs=dict(
     #    parse_only=bs4.SoupStrainer(
     #        class_=("post-content", "post-title", "post-header")

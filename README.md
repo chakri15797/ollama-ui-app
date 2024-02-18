@@ -17,3 +17,6 @@ Testing llava modal with a image(image.py)
 
 Output: The image shows a moment from a cricket match. A cricketer is in the middle of a shot, having just released the ball towards the wicketkeeper, who is waiting to catch it. Another player with bat in hand is ready for the next play. They are both wearing cricket gear and the player holding the bat has the number 10 on his jersey. The cricketer is also wearing a blue helmet with a white chin guard. In the background, there's an umpire standing behind the stumps, closely observing the play. The setting suggests this is a professional cricket match, possibly from the Indian Premier League (IPL), given the uniform of the players and the atmosphere around the ground. 
 
+Give a Html link and ask questions to ollama
+-> python ui.py
+open link http://127.0.0.1:7860 in the browser and start chatting with your AI modal.
